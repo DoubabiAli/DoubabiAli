@@ -1,63 +1,159 @@
-# 💫 About Me
+<div align="center">
 
-Hi 👋, I'm **Ali**, a Computer Science student passionate about software development and problem solving.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Doubab&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
-- 🎓 Computer Science Student
-- 💻 Interested in Software Engineering and Web Development
-- 🌱 Currently improving my skills in backend development, databases, and software design
-- 🐧 Linux enthusiast
-- 🚀 Always learning new technologies and building practical projects
-- ⚡ I enjoy turning ideas into real applications
+<a href="https://github.com/ali-doubab">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+%26+Web+Developer+%F0%9F%92%BB;Backend+%26+Database+Enthusiast+%F0%9F%97%84%EF%B8%8F;Linux+Power+User+%F0%9F%90%A7;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doubabiali@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=ali-doubab&color=7c3aed&style=flat-square&label=Profile+Views)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/ali-doubab?label=Followers&style=flat-square&color=7c3aed)](https://github.com/ali-doubab)
 
-# 💻 Tech Stack
+</div>
 
-### Programming Languages
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+---
 
-### Web Development
+## 🧑‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+```python
+class Ali:
+    name       = "Ali Doubabi"
+    role       = "Computer Science Student"
+    email      = "doubabiali@gmail.com"
 
-### Databases
+    interests  = ["Software Engineering", "Web Development",
+                  "Backend Systems", "Software Architecture"]
+    os         = "Fedora Linux 🐧"
+    learning   = ["Backend Development", "Databases", "Design Patterns"]
+    motto      = "Code. Learn. Build. Repeat."
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something great.")
+```
 
-### Tools & Technologies
+<br/>
 
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+---
 
-# 🎯 Current Goals
+## 🌐 Connect with Me
 
-- 📚 Continue expanding my knowledge in software engineering
-- 🔨 Build more real-world projects
-- 🌐 Improve my full-stack development skills
-- 🏗️ Learn more about software architecture and design patterns
-- 🚀 Contribute to open-source projects
+<div align="left">
 
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doubabiali@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali-doubab)
+
+</div>
+
+<br/>
+
+---
+
+## 💻 Tech Stack
+
+### 🔤 Programming Languages
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,js,bash&perline=8&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</div>
+
+<br/>
+
+### 🌐 Web Development
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=dark" />
+</div>
+
+<br/>
+
+### 🗄️ Databases
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle&theme=dark" />
+</div>
+
+<br/>
+
+### 🛠️ Tools & Environment
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,arduino&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ali-doubab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=a78bfa&icon_color=a78bfa" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-doubab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=a78bfa" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ali-doubab&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="170"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Ali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ali-doubab&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ali-doubab)
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 Current Goals
+
+<div align="center">
+
+| # | Goal | Status |
+|---|------|--------|
+| 1 | 📚 Deepen software engineering fundamentals | 🔄 In Progress |
+| 2 | 🔨 Ship more real-world projects | 🔄 In Progress |
+| 3 | 🌐 Level up full-stack development skills | 🔄 In Progress |
+| 4 | 🏗️ Master software architecture & design patterns | 📌 Planned |
+| 5 | 🤝 Contribute to open-source projects | 📌 Planned |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+*"Code. Learn. Build. Repeat."*
+
+⭐ **Found something useful? Drop a star — it means a lot!** ⭐
+
+</div>
