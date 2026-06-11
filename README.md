@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Doubab&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
-<a href="https://github.com/ali-doubab">
+<a href="https://github.com/DoubabiAli">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+%26+Web+Developer+%F0%9F%92%BB;Backend+%26+Database+Enthusiast+%F0%9F%97%84%EF%B8%8F;Linux+Power+User+%F0%9F%90%A7;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ali-doubab&color=7c3aed&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=DoubabiAli&color=7c3aed&style=flat-square&label=Profile+Views)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/ali-doubab?label=Followers&style=flat-square&color=7c3aed)](https://github.com/ali-doubab)
+[![GitHub followers](https://img.shields.io/github/followers/DoubabiAli?label=Followers&style=flat-square&color=7c3aed)](https://github.com/DoubabiAli)
 
 </div>
 
@@ -28,7 +28,7 @@ class Ali:
 
     interests  = ["Software Engineering", "Web Development",
                   "Backend Systems", "Software Architecture"]
-    os         = "Fedora Linux 🐧"
+    os         = ["Windows", "Fedora Linux 🐧"]
     learning   = ["Backend Development", "Databases", "Design Patterns"]
     motto      = "Code. Learn. Build. Repeat."
 
@@ -46,7 +46,7 @@ class Ali:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doubabiali@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali-doubab)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DoubabiAli)
 
 </div>
 
@@ -102,15 +102,15 @@ class Ali:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ali-doubab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=a78bfa&icon_color=a78bfa" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DoubabiAli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=a78bfa&icon_color=a78bfa" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-doubab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=a78bfa" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoubabiAli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=a78bfa" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ali-doubab&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="170"/>
+<img src="https://streak-stats.demolab.com?user=DoubabiAli&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="170"/>
 
 </div>
 
@@ -122,7 +122,7 @@ class Ali:
 
 <div align="center">
 
-[![Ali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ali-doubab&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ali-doubab)
+[![Ali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DoubabiAli&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/DoubabiAli)
 
 </div>
 
