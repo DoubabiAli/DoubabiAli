@@ -58,22 +58,6 @@ Hi 👋, I'm **Ali**, a Computer Science student passionate about software devel
 - 🏗️ Learn more about software architecture and design patterns
 - 🚀 Contribute to open-source projects
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
 <p align="center">
   <i>"Code. Learn. Build. Repeat."</i>
 </p>
