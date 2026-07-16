@@ -102,14 +102,6 @@ class Ali:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DoubabiAli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=a78bfa&icon_color=a78bfa" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoubabiAli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=a78bfa" height="170"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=DoubabiAli&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="170"/>
 
 </div>
