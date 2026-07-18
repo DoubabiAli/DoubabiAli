@@ -98,18 +98,6 @@ class Ali:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DoubabiAli&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="170"/>
-
-</div>
-
-<br/>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -145,7 +133,5 @@ class Ali:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
 *"Code. Learn. Build. Repeat."*
-
-⭐ **Found something useful? Drop a star — it means a lot!** ⭐
 
 </div>
