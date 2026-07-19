@@ -84,7 +84,6 @@ class Ali:
 <br/>
 
 ### 🛠️ Tools & Environment
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,arduino&theme=dark" />
   <br/><br/>
@@ -92,6 +91,7 @@ class Ali:
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </div>
 
 <br/>
