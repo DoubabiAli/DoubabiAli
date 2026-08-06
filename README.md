@@ -1,9 +1,8 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Doubabi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Doubabi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineering%20Student%20%7C%20Cloud%20and%20DevOps%20%7C%20QA&descAlignY=55&descSize=15" alt="Ali Doubabi banner" width="100%"/>
 
 <a href="https://github.com/DoubabiAli">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+%26+Web+Developer+%F0%9F%92%BB;Backend+%26+Database+Enthusiast+%F0%9F%97%84%EF%B8%8F;Linux+Power+User+%F0%9F%90%A7;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;QA+Engineer+in+Training+%7C+ISTQB+Candidate+%F0%9F%A7%AA;Linux+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD+%F0%9F%90%A7;Automating+Everything%2C+One+Pipeline+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,27 +12,38 @@
 [![GitHub followers](https://img.shields.io/github/followers/DoubabiAli?label=Followers&style=flat-square&color=7c3aed)](https://github.com/DoubabiAli)
 
 </div>
-
 <br/>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
+
+I'm a **Computer Science Engineering student** focused on **Cloud Computing, DevOps, and Software Quality Assurance**. I'm building a strong foundation in backend development and Linux systems while actively working toward automation, containerization, and infrastructure skills.
+
+- 🎯 Currently strengthening my skills in **Linux, Docker, CI/CD, PostgreSQL, and software testing**
+- 🧪 Preparing for the **ISTQB Foundation Level** certification
+- 🏗️ Building practical projects to apply Cloud, DevOps, and QA principles in real scenarios
+- 📈 Long-term goal: becoming a **Cloud & DevOps Engineer** with strong QA and automation expertise
+
+<br/>
 
 ```python
 class Ali:
-    name       = "Ali Doubabi"
-    role       = "Computer Science Student"
-    email      = "doubabiali@gmail.com"
-
-    interests  = ["Software Engineering", "Web Development",
-                  "Backend Systems", "Software Architecture"]
-    os         = ["Windows", "Fedora Linux 🐧"]
-    learning   = ["Backend Development", "Databases", "Design Patterns"]
-    motto      = "Code. Learn. Build. Repeat."
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something great.")
+    name  = "Ali Doubabi"
+    role  = "Computer Science Engineering Student"
+    focus = [
+        "Cloud Computing",
+        "DevOps",
+        "Software Quality Assurance",
+        "Backend Engineering",
+    ]
+    currently_learning = [
+        "Docker", "CI/CD", "Linux Administration",
+        "PostgreSQL", "FastAPI", "ISTQB Testing Fundamentals",
+    ]
+    tools = ["Git", "GitHub", "Python", "Java", "Linux"]
+    goal  = "Build scalable, reliable, and well-tested software."
+    motto = "Automate everything."
 ```
 
 <br/>
@@ -49,80 +59,106 @@ class Ali:
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DoubabiAli)
 
 </div>
-
 <br/>
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-### 🔤 Programming Languages
-
+### 💻 Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,js,bash&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,bash&perline=8&theme=dark" />
   <br/><br/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </div>
 
-<br/>
-
-### 🌐 Web Development
-
+### 🖥️ Backend & Web
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs,express,html,css&theme=dark" />
 </div>
-
-<br/>
 
 ### 🗄️ Databases
-
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,oracle&theme=dark" />
 </div>
 
-<br/>
-
-### 🛠️ Tools & Environment
+### ☁️ Cloud & DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash&theme=dark" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
 </div>
+
+**Actively learning:** AWS (Cloud Practitioner & Solutions Architect – Associate) · Kubernetes · Terraform · Infrastructure as Code · Monitoring & Observability
+
+### 🧪 Testing & QA
+<div align="left">
+  <img src="https://img.shields.io/badge/ISTQB-Preparing-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHPUnit-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
+</div>
+
+**Actively learning:** Pytest · JUnit · API Testing · Test Automation
 
 <br/>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Ali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DoubabiAli&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/DoubabiAli)
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DoubabiAli&show_icons=true&theme=radical&bg_color=1a1b27&title_color=a78bfa&icon_color=7c3aed&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DoubabiAli&layout=compact&theme=radical&bg_color=1a1b27&title_color=a78bfa&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=DoubabiAli&theme=radical&background=1a1b27&stroke=7c3aed&ring=a78bfa&fire=a78bfa&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DoubabiAli&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
 
 </div>
+<br/>
+
+---
+
+## 🎓 Certifications & Roadmap
+
+| Certification / Skill | Status |
+|---|---|
+| ISTQB Foundation Level (CTFL) | 🔄 Preparing |
+| Docker | 🔄 In Progress |
+| GitHub Actions (CI/CD) | 🔄 In Progress |
+| AWS Certified Cloud Practitioner (CLF-C02) | 🎯 Target |
+| AWS Certified Solutions Architect – Associate (SAA-C03) | 🎯 Target |
+| Kubernetes | 📌 Planned |
+| Terraform | 📌 Planned |
 
 <br/>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2026–2027 Goals
 
-<div align="center">
+- [ ] Earn the **ISTQB Foundation Level (CTFL)** certification
+- [ ] Earn **AWS Certified Cloud Practitioner (CLF-C02)** certification
+- [ ] Earn **AWS Certified Solutions Architect – Associate (SAA-C03)** certification
+- [ ] Build and deploy complete **CI/CD pipelines**
+- [ ] Get comfortable with **Kubernetes** fundamentals
+- [ ] Strengthen **Linux system administration** skills
+- [ ] Contribute to an **open-source** project
 
-| # | Goal | Status |
-|---|------|--------|
-| 1 | 📚 Deepen software engineering fundamentals | 🔄 In Progress |
-| 2 | 🔨 Ship more real-world projects | 🔄 In Progress |
-| 3 | 🌐 Level up full-stack development skills | 🔄 In Progress |
-| 4 | 🏗️ Master software architecture & design patterns | 📌 Planned |
-| 5 | 🤝 Contribute to open-source projects | 📌 Planned |
+<br/>
 
-</div>
+---
+
+## 🌱 Philosophy
+
+Great software is more than writing code — it's about writing maintainable code, automating repetitive work, delivering reliable systems, and never settling on quality. I try to bring that mindset into every project I build.
 
 <br/>
 
@@ -132,6 +168,6 @@ class Ali:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-*"Code. Learn. Build. Repeat."*
+**"Build. Test. Automate. Improve."**
 
 </div>
