@@ -107,20 +107,13 @@ class Ali:
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DoubabiAli&show_icons=true&theme=radical&bg_color=1a1b27&title_color=a78bfa&icon_color=7c3aed&hide_border=true"/>
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DoubabiAli&layout=compact&theme=radical&bg_color=1a1b27&title_color=a78bfa&hide_border=true"/>
-
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=DoubabiAli&show_icons=true&theme=radical&bg_color=1a1b27&title_color=a78bfa&icon_color=7c3aed&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DoubabiAli&layout=compact&theme=radical&bg_color=1a1b27&title_color=a78bfa&hide_border=true"/>
 <br/>
-
 <img src="https://streak-stats.demolab.com?user=DoubabiAli&theme=radical&background=1a1b27&stroke=7c3aed&ring=a78bfa&fire=a78bfa&hide_border=true"/>
-
 <br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoubabiAli&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
-
 </div>
 <br/>
 
