@@ -10,7 +10,7 @@
 
 ## About
 
-Computer Science Engineering student building toward a career in **Cloud & DevOps engineering**, with a strong parallel focus on **software quality assurance**. Comfortable across the stack — from writing the code, to testing it, to automating how it ships. Currently deepening skills in Linux administration, containerization, and CI/CD pipelines, and preparing for the ISTQB Foundation Level certification.
+Computer Science Engineering student building toward a career in **Cloud & DevOps engineering**, with a strong parallel focus on **software quality assurance**. Comfortable across the stack, from writing the code, to testing it, to automating how it ships. Currently deepening skills in Linux administration, containerization, and CI/CD pipelines, and preparing for the ISTQB Foundation Level certification.
 
 ---
 
@@ -97,5 +97,3 @@ Computer Science Engineering student building toward a career in **Cloud & DevOp
 - Preparing for the ISTQB Foundation Level exam
 
 ---
-
-📫 **Open to internship / junior Cloud, DevOps, or QA roles.** Reach out via [email](mailto:doubabiali@gmail.com) or [LinkedIn](YOUR_LINKEDIN_URL).
