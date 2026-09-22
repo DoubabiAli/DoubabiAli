@@ -18,7 +18,7 @@ Computer Science Engineering student building toward a career in **Cloud & DevOp
 
 | Project | Description | Stack |
 |---|---|---|
-| [**CareerLaunch AI**](https://github.com/DoubabiAli/careerlaunch-ai) | Full-stack AI-powered career platform: user profile management, AI-assisted CV generation, and personalized job/internship/apprenticeship matching, built on a REST architecture | FastAPI, React, PostgreSQL, Docker |
+| [**CareerLaunch AI** ( on going )](https://github.com/DoubabiAli/careerlaunch-ai) | Full-stack AI-powered career platform: user profile management, AI-assisted CV generation, and personalized job/internship/apprenticeship matching, built on a REST architecture | FastAPI, React, PostgreSQL, Docker |
 | [**Medical Practice Management App**](https://github.com/DoubabiAli/CabinetMedical-Application-Web-de-Gestion-Medicale) | Web app for managing a medical practice: role-based access (doctor/secretary/patient/admin), appointment scheduling, electronic medical records, PDF prescriptions, and email notifications | Laravel 13, Tailwind CSS, MySQL, PHPUnit |
 | [**ChatApp**](https://github.com/DoubabiAli/ChatApp) | Real-time messaging app for instant communication in shared chat rooms via a client-server architecture | Node.js, Socket.IO, MongoDB |
 | [**ShopSphere**](https://github.com/DoubabiAli/ShopSphere-Marketplace-E-Commerce-Multi-Vendeurs-OracleAPEX) | Multi-vendor e-commerce platform with full product, customer, and order management | PL/SQL, Oracle Database XE, Oracle APEX |
