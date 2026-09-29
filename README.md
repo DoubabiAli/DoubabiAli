@@ -1,6 +1,6 @@
 # Ali Doubabi
 
-**Computer Science Engineering Student — Cloud, DevOps & QA**
+**Computer Science Engineering Student**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Gmail](https://img.shields.io/badge/Email-doubabiali%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:doubabiali@gmail.com)
