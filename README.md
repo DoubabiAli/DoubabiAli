@@ -2,7 +2,6 @@
 
 **Computer Science Engineering Student**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Gmail](https://img.shields.io/badge/Email-doubabiali%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:doubabiali@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DoubabiAli-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DoubabiAli)
 
@@ -10,7 +9,7 @@
 
 ## About
 
-Computer Science Engineering student building toward a career in **Cloud & DevOps engineering**, with a strong parallel focus on **software quality assurance**. Comfortable across the stack, from writing the code, to testing it, to automating how it ships. Currently deepening skills in Linux administration, containerization, and CI/CD pipelines, and preparing for the ISTQB Foundation Level certification.
+Computer Science Engineering student with a strong interest in **software engineering, data, and modern application development**. Experienced in building applications across the stack, from backend services and REST APIs to database design and user interfaces. Currently strengthening expertise in **software architecture, database systems, data processing, and application deployment**, while continuously exploring new technologies through hands-on projects.
 
 ---
 
@@ -37,21 +36,26 @@ Computer Science Engineering student building toward a career in **Cloud & DevOp
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-**Cloud & DevOps**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora_Linux-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-
-**Backend & Web**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+**Front-end**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+**Backend & API**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![MVC](https://img.shields.io/badge/Architecture-MVC-6E4C9E?style=flat-square)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -59,17 +63,31 @@ Computer Science Engineering student building toward a career in **Cloud & DevOp
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+**Tools**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **Testing & QA**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-8892BF?style=flat-square&logo=php&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![ISTQB](https://img.shields.io/badge/ISTQB-Preparing-orange?style=flat-square)
+
+**Methods**
+![UML](https://img.shields.io/badge/UML-FABD14?style=flat-square&logo=uml&logoColor=black)
+![Merise](https://img.shields.io/badge/Merise-005A9C?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-8A2BE2?style=flat-square)
 
 **Currently learning**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API_Test_Automation-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -79,21 +97,11 @@ Computer Science Engineering student building toward a career in **Cloud & DevOp
 
 | Certification / Skill | Status |
 |---|---|
+| CCNA (Cisco Certified Network Associate) | In progress |
 | ISTQB Foundation Level (CTFL) | In progress |
 | Docker | In progress |
 | GitHub Actions (CI/CD) | In progress |
 | AWS Certified Cloud Practitioner (CLF-C02) | Target |
 | AWS Certified Solutions Architect – Associate (SAA-C03) | Target |
-| Kubernetes | Planned |
-| Terraform | Planned |
-
----
-
-## Currently Focused On
-
-- Strengthening Linux system administration and shell scripting
-- Building and deploying complete CI/CD pipelines
-- Contributing to an open-source project
-- Preparing for the ISTQB Foundation Level exam
 
 ---
