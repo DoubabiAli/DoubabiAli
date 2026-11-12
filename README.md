@@ -9,7 +9,7 @@
 
 ## About
 
-Computer Science Engineering student with a strong interest in **software engineering, data, and modern application development**. Experienced in building applications across the stack, from backend services and REST APIs to database design and user interfaces. Currently strengthening expertise in **software architecture, database systems, data processing, and application deployment**, while continuously exploring new technologies through hands-on projects.
+Computer Science Engineering student passionate about **software development, APIs, data, and AI**. Experienced in building applications across the stack, from backend services and REST APIs to database design and user interfaces. Continuously exploring new technologies and developing skills in **software architecture, data processing, and application deployment** through hands-on projects.
 
 ---
 
@@ -17,11 +17,11 @@ Computer Science Engineering student with a strong interest in **software engine
 
 | Project | Description | Stack |
 |---|---|---|
-| [**CareerLaunch AI** ( on going )](https://github.com/DoubabiAli/careerlaunch-ai) | Full-stack AI-powered career platform: user profile management, AI-assisted CV generation, and personalized job/internship/apprenticeship matching, built on a REST architecture | FastAPI, React, PostgreSQL, Docker |
+| [**IoT Sensor Simulator & Monitoring**](https://github.com/DoubabiAli/Projet-de-simulation-en-Cpp) | C++17 simulator of four IoT sensors with a scheduler, a native HTTP server exposing a JSON API, a web dashboard and a Python/Pandas anomaly analysis; containerized with Docker and checked by a GitHub Actions CI | C++17, CMake, Python, Pandas, Docker, GitHub Actions |
+| [**CareerLaunch AI** ( on going )](https://github.com/DoubabiAli/careerlaunch-ai) | Full-stack career platform for managing professional profiles: FastAPI REST backend, PostgreSQL data model with SQLAlchemy, generic CRUD layer and a React/TypeScript frontend | FastAPI, SQLAlchemy, PostgreSQL, React, TypeScript, Docker |
 | [**Medical Practice Management App**](https://github.com/DoubabiAli/CabinetMedical-Application-Web-de-Gestion-Medicale) | Web app for managing a medical practice: role-based access (doctor/secretary/patient/admin), appointment scheduling, electronic medical records, PDF prescriptions, and email notifications | Laravel 13, Tailwind CSS, MySQL, PHPUnit |
 | [**ChatApp**](https://github.com/DoubabiAli/ChatApp) | Real-time messaging app for instant communication in shared chat rooms via a client-server architecture | Node.js, Socket.IO, MongoDB |
 | [**ShopSphere**](https://github.com/DoubabiAli/ShopSphere-Marketplace-E-Commerce-Multi-Vendeurs-OracleAPEX) | Multi-vendor e-commerce platform with full product, customer, and order management | PL/SQL, Oracle Database XE, Oracle APEX |
-| [**VeloGame**](https://github.com/DoubabiAli/VeloGame) | 2D bicycle racing game with event handling, collision detection, animations, and graphical rendering | C++, SDL2 |
 
 *(See [all repositories →](https://github.com/DoubabiAli?tab=repositories))*
 
@@ -57,6 +57,11 @@ Computer Science Engineering student with a strong interest in **software engine
 ![REST API](https://img.shields.io/badge/REST_API-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![MVC](https://img.shields.io/badge/Architecture-MVC-6E4C9E?style=flat-square)
 
+**Data & AI**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -65,12 +70,19 @@ Computer Science Engineering student with a strong interest in **software engine
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
+**Networking & IoT**
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+
 **Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
 
@@ -97,10 +109,10 @@ Computer Science Engineering student with a strong interest in **software engine
 
 | Certification / Skill | Status |
 |---|---|
-| CCNA (Cisco Certified Network Associate) | In progress |
+| GitHub Foundations (DataCamp, 2026) | Completed |
+| CCNA: Introduction to Networks (ITN v7, 2026) | Completed |
+| CCNA: Switching, Routing, and Wireless Essentials (SRWE v7) | Planned for January 2027 |
 | ISTQB Foundation Level (CTFL) | In progress |
-| Docker | In progress |
-| GitHub Actions (CI/CD) | In progress |
 | AWS Certified Cloud Practitioner (CLF-C02) | Target |
 | AWS Certified Solutions Architect – Associate (SAA-C03) | Target |
 
