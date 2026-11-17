@@ -17,6 +17,7 @@ Computer Science Engineering student passionate about **software development, AP
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Eigenfaces & SVD Image Compression**](https://github.com/DoubabiAli/Eigenfaces-svd-olivetti) | Image processing project combining PCA-based facial recognition (Eigenfaces) on the Olivetti dataset and image compression using truncated SVD, with reconstruction quality and recognition accuracy evaluation | Python, NumPy, scikit-learn, Matplotlib, Pillow |
 | [**IoT Sensor Simulator & Monitoring**](https://github.com/DoubabiAli/Projet-de-simulation-en-Cpp) | C++17 simulator of four IoT sensors with a scheduler, a native HTTP server exposing a JSON API, a web dashboard and a Python/Pandas anomaly analysis; containerized with Docker and checked by a GitHub Actions CI | C++17, CMake, Python, Pandas, Docker, GitHub Actions |
 | [**CareerLaunch AI** ( on going )](https://github.com/DoubabiAli/careerlaunch-ai) | Full-stack career platform for managing professional profiles: FastAPI REST backend, PostgreSQL data model with SQLAlchemy, generic CRUD layer and a React/TypeScript frontend | FastAPI, SQLAlchemy, PostgreSQL, React, TypeScript, Docker |
 | [**Medical Practice Management App**](https://github.com/DoubabiAli/CabinetMedical-Application-Web-de-Gestion-Medicale) | Web app for managing a medical practice: role-based access (doctor/secretary/patient/admin), appointment scheduling, electronic medical records, PDF prescriptions, and email notifications | Laravel 13, Tailwind CSS, MySQL, PHPUnit |
